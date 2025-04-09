@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "nodemon": "^3.1.9"
   },
@@ -17,5 +16,14 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hlyztrk/fruity-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hlyztrk/fruity-api/issues"
+  },
+  "homepage": "https://github.com/Hlyztrk/fruity-api#readme",
+  "description": ""
 }
